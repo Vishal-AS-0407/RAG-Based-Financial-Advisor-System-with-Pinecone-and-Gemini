@@ -89,9 +89,9 @@ pip install -r requirements.txt
 4. **Output**:
    - The system generates personalized financial advice tailored to the query.
    - ![WhatsApp Image 2024-12-14 at 00 19 55_067e867c](https://github.com/user-attachments/assets/56436a3b-a265-4868-88ca-45e8f27e8f0c)
-
-
 ---
 
+### 🌟 **Show Your Support**
+If you find this project helpful, give it a ⭐ on GitHub and share it with others! 😊
 
 
